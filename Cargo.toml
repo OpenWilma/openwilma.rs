@@ -1,0 +1,12 @@
+[package]
+name = "openwilma"
+version = "0.0.0"
+edition = "2021"
+authors = ["Mixu_78 <kantola.miksu@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/OpenWilma/openwilma.rs"
+description = "OpenWilma Rust library"
+keywords = ["wilma", "api"]
+
+[dependencies]
